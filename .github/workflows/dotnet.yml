@@ -23,6 +23,6 @@ jobs:
     - name: Restore dependencies
       run: dotnet restore "CyberSecurityBot Part 1.slnx"
     - name: Build
-      run: dotnet build --no-restore "CyberSecurityBot Part 1.slnx"
+      run: dotnet build -- configuration Release -- no-restore -- "CyberSecurityBot Part 1.slnx"
     - name: Test
       run: dotnet test --no-build -- logger "trx" --verbosity normal "CyberSecurityBot Part 1.slnx"
