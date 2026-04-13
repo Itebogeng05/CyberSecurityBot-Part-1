@@ -45,4 +45,4 @@ Update the file path in the code if needed:
 string audioPath = "C:\Users\itebo\source\repos\CyberSecurityBot Part 1\CyberSecurityBot Part 1\greeting.wav"";
 
 ### 4. Github workflows
-github workflowPath = "C:\Users\itebo\Pictures\Screenshots\Screenshot 2026-04-13 224356.png";
+<img width="1010" height="639" alt="Screenshot 2026-04-13 224356" src="https://github.com/user-attachments/assets/7b168b3a-7d1e-4fbc-b57a-8f22b40d4708" />
